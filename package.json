@@ -7,7 +7,7 @@
     "client-install": "npm install --prefix client",
     "start": "nodemon index.js",
     "server": "nodemon index.js",
-    "client": "npm install --prefix herogi-frontend && npm start --prefix herogi-frontend",
+    "client": "npm install --prefix frontend && npm start --prefix frontend",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "author": "",
