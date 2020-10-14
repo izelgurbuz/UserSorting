@@ -1,0 +1,17 @@
+.App {
+}
+.list-class {
+  display: flex;
+  justify-content: space-around;
+}
+table-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+Table {
+  flex: 1 1 auto;
+  overflow: scroll;
+  margin: auto;
+  max-width: 45%;
+}
