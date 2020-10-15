@@ -1,6 +1,7 @@
-# User Sorting Table
+# Data Sorting App (with MERN Stack)
 
-Basic Web application to fetch and sort users according to their pace, distance and total time.
+Basic Web application to fetch and sort users according to their pace, distance and total time. 
+MERN stack used to cover the entire development cycle from Front-end to Back-end using JS. 
 
 ## Getting Started
 
